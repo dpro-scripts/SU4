@@ -1,5 +1,7 @@
 # SU4
 
+## Website: https://bit.ly/securlyunblocker4
+
 ## Changelog: https://github.com/dpro-scripts/SU4/blob/main/changelog.md
 
 ## What is it?
