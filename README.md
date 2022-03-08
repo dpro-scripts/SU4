@@ -1,5 +1,7 @@
 # SU4
 
+## Changelog: https://github.com/dpro-scripts/SU4/blob/main/changelog.md
+
 ## What is it?
 
 It is a javascript **Bookmarklet**, or one-line javascript that can be executable just like javascript, but also in a url. I will **not** make it open source, as I do not want to get it patched.
