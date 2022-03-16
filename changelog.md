@@ -1,3 +1,7 @@
+## Version 1.8 (minor)
+- Fixed you being able to only execute it on the blocked securly tab
+- Updated the version in the execute alert (finally)
+
 ## Version 1.7
 
 - Added youtube unblocker (it doesnt work, currently trying to fix)
